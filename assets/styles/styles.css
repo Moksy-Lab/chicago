@@ -269,6 +269,254 @@ width: 18rem;
     }
     /* #tacos(a3b5c4005c371601) #css ends  */
 
+        /* #fanel(f61ab3c400b14714) #css starts */
+        .footerf61ab3c400b14714 .round-btn {
+            display: inline;
+            height: 40px;
+            width: 40px;
+            background: #fff;
+            border-radius: 50%;
+            float: left;
+            margin: 15px 8px;
+            box-shadow: 2px 2px 5px 0px rgb(82, 0, 67);
+            border: 1px solid
+        }
+    
+        .footerf61ab3c400b14714 .round-btn a {
+            display: block;
+            padding: 7px 12px;
+            font-size: 18px;
+            border-radius: 50%
+        }
+    
+        .footerf61ab3c400b14714 .round-btn .icon {
+            padding: 3px
+        }
+    
+        .footerf61ab3c400b14714 .round-btn .icon img {
+            height: 24px;
+            width: 32px;
+            margin-top: 6px
+        }
+    
+        .footerf61ab3c400b14714 .btn-facebook a {
+            color: #3b5998;
+            padding: 8px 13px
+        }
+    
+        .footerf61ab3c400b14714 .btn-linkedin a {
+            color: #007bb6
+        }
+    
+        .footerf61ab3c400b14714 .btn-twitter a {
+            color: #1c9deb
+        }
+    
+        .footerf61ab3c400b14714 .btn-whatsapp a {
+            color: #155E54
+        }
+    
+        .footerf61ab3c400b14714 .standard_header .standard_social_links {
+            margin-left: 1rem
+        }
+    
+    
+        .footerf61ab3c400b14714 .footer-wrap {
+            padding-top: 43px;
+            background-color: #E0F3FB;
+            background-size: cover
+        }
+    
+        .footerf61ab3c400b14714 .footer-wrap h3 {
+            color: #fff;
+            font-size: 17px;    
+            margin-bottom: 25px
+        }
+    
+        .footerf61ab3c400b14714 .footer-wrap p {
+            font-size: 13px;
+            line-height: 24px;
+            color: #b3b3b3;
+            margin-top: 15px
+        }
+    
+        .footerf61ab3c400b14714 .footer-wrap p a {
+            color: #fff;
+            text-decoration: underline;
+            font-style: italic
+        }
+    
+        .footerf61ab3c400b14714 .footer-wrap p a:hover {
+            text-decoration: none;
+            color: #ff7800
+        }
+    
+        .footerf61ab3c400b14714 .footer-links li a {
+            font-size: 13px;
+            line-height: 30px;
+            color: rgb(0, 0, 0);
+            text-decoration: none
+        }
+    
+        .footerf61ab3c400b14714 .footer-links li:before {
+            content: "\f105";
+            font-family: 'FontAwesome';
+            padding-right: 10px;
+            color: rgb(0, 0, 0)
+        }
+    
+        .footerf61ab3c400b14714 .footer-category li a {
+            font-size: 13px;
+            line-height: 30px;
+            color: rgb(0, 0, 0);
+            text-decoration: none;
+        }
+    
+        .footerf61ab3c400b14714 .footer-category li:before {
+            content: "\f105";
+            font-family: 'FontAwesome';
+            padding-right: 10px;
+            color: #b3b3b3
+        }
+    
+        .footerf61ab3c400b14714 .address {
+            color: #000000;
+            font-size: 14px;
+            position: relative;
+            padding-left: 30px;
+            line-height: 30px
+        }
+    
+        .footerf61ab3c400b14714 .address:before {
+            content: "\f277";
+            font-family: 'FontAwesome';
+            position: absolute;
+            top: 0;
+            left: 0
+        }
+    
+        .footerf61ab3c400b14714 .info a {
+    
+            color: #000000;
+            font-size: 14px;
+            line-height: 30px;
+            font-weight: normal
+        }
+    
+        .footerf61ab3c400b14714 .fa-phone:before {
+            content: "\f095"
+        }
+    
+        .footerf61ab3c400b14714 .info a {
+            color: #000000;
+            font-size: 14px;
+            line-height: 30px;
+            font-weight: normal
+        }
+    
+        .footerf61ab3c400b14714 .fa-fax:before {
+            content: "\f1ac"
+        }
+    
+        .footerf61ab3c400b14714 .copyright {
+            border-top: 1px solid #111;
+            font-size: 14px;
+            color: #ccc;
+            padding-top: 15px;
+            text-align: center;
+            padding-bottom: 15px;
+            background: #222
+        }
+    
+        .footerf61ab3c400b14714 footer .second_class {
+            border-bottom: 1px solid #444;
+            padding-bottom: 25px
+        }
+    
+        .footerf61ab3c400b14714 footer .first_class {
+            padding-bottom: 21px;
+            border-bottom: 1px solid #444
+        }
+    
+        .footerf61ab3c400b14714 footer .first_class p,
+        .footerf61ab3c400b14714 footer .first_class h3 {
+            margin: 0 0
+    
+        }
+    
+        .footerf61ab3c400b14714 footer {
+            background: #333
+        }
+    
+        .footerf61ab3c400b14714 footer .newsletter input[type="text"] {
+            width: 100%;
+            background: #fff;
+            color: #333;
+            border: 1px solid #222;
+            padding: 14px 20px;
+            border-radius: 50px;
+            margin-top: 12px
+        }
+    
+        .footerf61ab3c400b14714 .newsletter .newsletter_submit_btn {
+            background: #fff;
+            position: absolute;
+            right: 30px;
+            border: 0;
+            top: 26px;
+            font-size: 17px;
+            color: #333
+        }
+    
+        .footerf61ab3c400b14714 footer .second_class_bdr {
+            padding-top: 25px;
+            border-top: 1px solid #222
+        }
+    
+        .footerf61ab3c400b14714 footer .btn-facebook a {
+            padding: 6px 14px
+        }
+    
+        .footerf61ab3c400b14714 footer .round-btn a {
+            padding: 6px 12px
+        }
+    
+        .footerf61ab3c400b14714 footer .round-btn {
+            box-shadow: 2px 2px 5px 0px #222
+        }
+    
+        .footerf61ab3c400b14714 footer .round-btn {
+            margin: 15px 4px
+        }
+    
+        .footerf61ab3c400b14714 footer dl,
+        .footerf61ab3c400b14714 ol,
+        .footerf61ab3c400b14714 ul {
+            padding-left: 5px
+        }
+    
+        .footerf61ab3c400b14714 footer li {
+            list-style: none
+        }
+    
+        @media(max-width:768px) {
+            .footerf61ab3c400b14714 .footer-wrap h3 {
+                margin-top: 27px
+            }
+    
+            .footerf61ab3c400b14714 footer .round-btn {
+                margin: 15px 4px
+            }
+        }
+    
+        @media(max-width:320px) {
+            .footerf61ab3c400b14714 .copyright {
+                font-size: 13px
+            }
+        }
+    
+        /* #fanel(f61ab3c400b14714) #css ends */
+
 /* =============================  #features #waldina start =========================== */
 .waldina .highlight-feature-block {
     width: 100%;
