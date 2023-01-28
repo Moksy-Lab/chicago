@@ -11,6 +11,17 @@
     --cullen-background-image : url()
 
 }
+
+/* #hasis(e2d79a3ca0c8814a) #css starts  */
+.headere2d79a3ca0c8814a .head{
+    color: red;
+}
+.headere2d79a3ca0c8814a .button{
+    background-color: rgb(255, 187, 0);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: bold;
+}
+/* #hasis(e2d79a3ca0c8814a) #css ends  */
 /* =============================  #features #waldina start =========================== */
 .waldina .highlight-feature-block {
     width: 100%;
