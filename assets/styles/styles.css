@@ -512,7 +512,7 @@ width: 18rem;
         /* #fanel(f61ab3c400b14714) #css ends */
 
 /* =============================  #features #waldina start =========================== */
-.waldina .highlight-feature-block {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block {
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
@@ -520,40 +520,40 @@ width: 18rem;
     margin-left: auto;
     padding-top: 50px;
 }
-.waldina .highlight-feature-block .highlight-feature-row {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .highlight-feature-row {
     padding-top: 0px
 }
-.waldina .highlight-feature-block .highlight-feature-row {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .highlight-feature-row {
     text-align: center;
 }
 @media(min-width:768px) {
-    .waldina .highlight-feature-block .highlight-feature-row {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .highlight-feature-row {
         padding-top: 50px
     }
 }
 @media(min-width:753px) {
-    .waldina .highlight-feature-block .highlight-feature-row {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .highlight-feature-row {
         text-align: left
     }
 }
-.waldina .highlight-feature-block .img-fluid {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .img-fluid {
     max-width: 70% !important
 }
-.waldina .highlight-feature-block .highlight-feature-row p {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-block .highlight-feature-row p {
     margin-top: 0
 }
-.waldina .highlight-feature-row .feature-list {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-list {
     padding-top: 50px
 }
 @media(min-width:753px) {
-    .waldina .highlight-feature-row .feature-list {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-list {
         padding-top: 25px
     }
 }
-.waldina .highlight-feature-row .feature-list .row {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-list .row {
     margin-bottom: 30px
 }
-.waldina .highlight-feature-row .feature-icon {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -563,47 +563,47 @@ width: 18rem;
     margin: 0 auto;
     margin-bottom: 20px
 }
-.waldina .highlight-feature-row .highlight-feature-img {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .highlight-feature-img {
     margin-top: 50px
 }
 @media(min-width:768px) {
-    .waldina .highlight-feature-row .highlight-feature-img {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .highlight-feature-img {
         padding-left: 60px;
         padding-right: 60px
     }
 }
 @media(min-width:753px) {
-    .waldina .highlight-feature-row .feature-icon {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon {
         margin: initial;
         margin-bottom: initial
     }
-    .waldina .highlight-feature-row .feature-list .row {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-list .row {
         margin-bottom: 15px
     }
-    .waldina .highlight-feature-row .highlight-feature-img {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .highlight-feature-img {
         margin-top: 90px
     }
 }
 @media(min-width:992px) {
-    .waldina .highlight-feature-row .highlight-feature-img {
+    .featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .highlight-feature-img {
         margin-top: initial;
     }
 }
-.waldina .highlight-feature-row .feature-icon i {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon i {
     width: 1em;
     height: 1em;
     position: relative;
     display: block
 }
-.waldina .highlight-feature-row .feature-icon.blue-bg {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon.blue-bg {
     background-color: rgba(0, 158, 218, .12);
     color: rgba(0, 158, 218, .9)
 }
-.waldina .highlight-feature-row .feature-icon.orange-bg {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon.orange-bg {
     background-color: #fdf8ee;
     color: #e39432
 }
-.waldina .highlight-feature-row .feature-icon.red-bg {
+.featureb2bbaef8b0c43ef9 .waldina .highlight-feature-row .feature-icon.red-bg {
     background-color: rgba(255, 147, 152, .2);
     color: #f66
 }
