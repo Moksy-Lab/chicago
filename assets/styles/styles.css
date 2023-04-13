@@ -515,6 +515,68 @@ margin-left: 220px
     padding-bottom: 50px;
 }
 .clifton .heading-two-custom-cls{
- color:#FF5E00 ;
+ color:#FF5E00
 }
 /* ======================= clifton end ====================== */
+
+/* #fanul(b6c9fcc0294384085) #css starts */
+.footerb6c9fcc0294384085 a {
+    font-size: 18px;
+    text-decoration: none;
+    transition: all 0.3s
+}
+.footerb6c9fcc0294384085 .mb-3{
+    font-size: 18px;
+}
+.footerb6c9fcc0294384085 .h3{
+    color:#FF5E00 ;
+}
+.footerb6c9fcc0294384085 button {
+    background: none
+}
+
+.footerb6c9fcc0294384085 a:hover,
+.footerb6c9fcc0294384085 a:focus {
+    color:#FF5E00 ;
+    text-decoration: none
+}
+
+.footerb6c9fcc0294384085 .form-control {
+    background: white
+}
+
+.footerb6c9fcc0294384085 .form-control:focus {
+    background: #FF5E00;
+    box-shadow: none;
+    color: black
+}
+
+.footerb6c9fcc0294384085 footer {
+    background: #E0F3FB
+}
+
+.footerb6c9fcc0294384085 .mini-footer {
+    background: #192027;
+    text-align: center;
+    padding: 15px 0
+}
+
+.footerb6c9fcc0294384085 .mini-footer p {
+    margin: 0;
+    line-height: 26px;
+    font-size: 15px;
+    color: #999
+}
+
+.footerb6c9fcc0294384085 .mini-footer p a {
+    color: #ffffff
+}
+
+.footerb6c9fcc0294384085 .mini-footer p a:hover {
+    color: #FF5E00
+}
+.footerb6c9fcc0294384085  input:focus::placeholder {
+    color: rgb(255, 255, 255);
+  }
+
+/* #fanul(b6c9fcc0294384085) #css ends */
