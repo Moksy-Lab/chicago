@@ -504,3 +504,17 @@ margin-left: 220px
     color: #f66
 }
 /* =============================  #features #waldina end =========================== */
+
+/* ======================= clifton start ====================== */
+.clifton .our-clients img.logo {
+    width: 170px;
+    margin-bottom: 30px;
+}
+.clifton .our-clients .client-logos {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.clifton .heading-two-custom-cls{
+ color:#FF5E00 ;
+}
+/* ======================= clifton end ====================== */
