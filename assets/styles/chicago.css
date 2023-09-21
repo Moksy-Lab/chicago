@@ -41,5 +41,35 @@
 .aboutd390a380620aac0e .para{
     font-size: 20px
 }
+.aboutd390a380620aac0e .video_card>.btn:active {
+    color: #A14CED
+}
 /* #atami(d390a380620aac0e) #css ends  */
 /*****atami*****/
+
+/*****agar*****/
+/* #agar(h66a519b827a7d261) #css starts  */
+.abouth66a519b827a7d261{
+    padding: 4.5rem 0;
+}
+.abouth66a519b827a7d261 .DescriptionHeading {
+    font-size: 32px;
+    color: #1F1F1F
+}
+.abouth66a519b827a7d261 .font-weight-bold{
+    font-weight: 400!important
+}
+.abouth66a519b827a7d261 .DescriptionPara {
+    color: #1F1F1F;
+    font-size: 20px
+}
+
+.abouth66a519b827a7d261 .searchBtn{
+    background-color: #A14CED;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    padding: 15px 30px;
+}
+/* #agar(h66a519b827a7d261) #css ends  */
+/*****agar*****/
