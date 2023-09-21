@@ -1,0 +1,45 @@
+/*****harold*****/
+/* #harold(headerfqwhkqilkzf) #css starts  */
+.headerfqwhkqilkzf .logo{
+    max-height: 45px
+}
+.headerfqwhkqilkzf .navbar-light .navbar-nav .nav-link{
+    color: #1F1F1F
+}
+.headerfqwhkqilkzf .navbar-light .navbar-nav .nav-link:hover{
+    color: #A14CED
+}
+/* #harold(headerfqwhkqilkzf) #css ends  */
+/*****harold*****/
+
+/*****atami*****/
+ /* #atami(d390a380620aac0e) #css starts  */
+.aboutd390a380620aac0e{
+    margin-right: -30px;
+    padding: 2.5rem 0
+}
+.aboutd390a380620aac0e .video_card>img {
+    width: 95%
+}
+.aboutd390a380620aac0e .video_card::before {
+    background-color: #04D2C8;
+    width: 95%
+}
+.aboutd390a380620aac0e .video_card>.btn {
+    color: #A14CED
+}
+.aboutd390a380620aac0e .video_card>.btn:active {
+    color: #A14CED
+    background: rgba(255, 255, 255, 0.5)
+}
+.aboutd390a380620aac0e h2{
+    font-size: 40px
+}
+.aboutd390a380620aac0e .font-weight-bold{
+    font-weight: 400!important
+}
+.aboutd390a380620aac0e .para{
+    font-size: 20px
+}
+/* #atami(d390a380620aac0e) #css ends  */
+/*****atami*****/
