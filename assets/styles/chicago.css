@@ -163,9 +163,15 @@
  .formftfyiyue44r .fdb-block a:hover{
     color: #A14CED
  }
- .btn-outline-secondary {
-    color: #6c757d;
-    border-color: #6c757d;
+ .formftfyiyue44r .btn-outline-secondary {
+    color: #1F1F1F;
+    border: none;
+}
+.formftfyiyue44r .btn-outline-secondary:hover,
+.formftfyiyue44r .btn-outline-secondary:not(:disabled):not(.disabled):active{
+    color: #fff;
+    background-color: #A14CED;
+    border-color: #A14CED
 }
 /* #faki(formftfyiyue44r) #css starts */
 /*****faki*****/
