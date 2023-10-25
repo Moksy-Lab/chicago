@@ -1,7 +1,7 @@
 /*****harold*****/
 /* #harold(headerfqwhkqilkzf) #css starts  */
 .headerfqwhkqilkzf .logo{
-    max-height: 45px
+    max-height: 35px
 }
 .headerfqwhkqilkzf .navbar-light .navbar-nav .nav-link{
     color: #1F1F1F
@@ -15,7 +15,6 @@
 /*****atami*****/
  /* #atami(d390a380620aac0e) #css starts  */
 .aboutd390a380620aac0e{
-    margin-right: -30px;
     padding: 2.5rem 0
 }
 .aboutd390a380620aac0e .video_card>img {
@@ -103,7 +102,7 @@
     font-size: 18px
 }
 .fayete8bna5e4lc a{
-    color: #A14CED;
+    color: #1F1F1F;
     font-weight: 600;
     font-size: 18px
 }
@@ -133,6 +132,9 @@
 
 /*****sammy*****/
     /* #sammy(ebfcf165e4ae5852) #css starts  */
+    .serviceebfcf165e4ae5852{
+        padding: 4.5rem 0
+    }
     .serviceebfcf165e4ae5852 .image img{
         width: 100%
     }
@@ -179,7 +181,7 @@
 /*****foot*****/
     /* #foot(footftkxsoham8f) #css starts  */
     .footftkxsoham8f .fdb-block{
-        padding: 4.5rem 0
+        padding: 1.5rem 0
     }
     .footftkxsoham8f .fdb-block .nav-link{
         margin-left: -14px;
